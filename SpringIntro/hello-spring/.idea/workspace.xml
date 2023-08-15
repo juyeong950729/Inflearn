@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d672983-c7a2-4ff2-85ca-4f64ef209a55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringBasic/core/src/test/java/hello/core/beanfind/AppicationContextSameBeanFindTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBasic/core/src/test/java/hello/core/beanfind/ApplicationContextBasicFindText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBasic/core/src/test/java/hello/core/beanfind/ApplicationContextExtendsFindTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBasic/core/src/test/java/hello/core/beanfind/ApplicationContextInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringIntro/hello-spring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringIntro/hello-spring/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/HelloSpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/hello-static.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/hellospring/HelloSpringApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/MemberApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/MemberApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBasic/core/src/main/java/hello/core/OrderApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d672983-c7a2-4ff2-85ca-4f64ef209a55" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
